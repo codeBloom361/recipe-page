@@ -20,8 +20,8 @@ Welcome! This is a recipe page of simple omelette by Frontend Mentor.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/recipe-page-using-css-flexbox-ZT6LtK_y60)
-- Live Site URL: [Add live site URL here](https://codebloom361.github.io/recipe-page/)
+- Solution URL: [https://www.frontendmentor.io/solutions/recipe-page-using-css-flexbox-ZT6LtK_y60](https://www.frontendmentor.io/solutions/recipe-page-using-css-flexbox-ZT6LtK_y60)
+- Live Site URL: [https://codebloom361.github.io/recipe-page/](https://codebloom361.github.io/recipe-page/)
 
 ### Built with
 
