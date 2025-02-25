@@ -20,7 +20,7 @@ Welcome! This is a recipe page of simple omelette by Frontend Mentor.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/recipe-page-using-css-flexbox-ZT6LtK_y60)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
@@ -42,4 +42,4 @@ Welcome! This is a recipe page of simple omelette by Frontend Mentor.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@codeBloom361](https://www.frontendmentor.io/profile/codeBloom361)
