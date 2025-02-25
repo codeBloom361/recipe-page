@@ -16,7 +16,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 Welcome! This is a recipe page of simple omelette by Frontend Mentor.
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot%202025-02-25%20215703.png)
 
 ### Links
 
